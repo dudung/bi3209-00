@@ -18,6 +18,6 @@ Dr. Wisnu Ananta Kusuma \
 📍: Dilaksanakan secara HYBRID pada \
 Auditorium Campus Center (CC) Timur - ITB, Jl. Ganesha 10, Bandung \
 dan \
-ZOOM: b.link/BioinformaticsSymposium2023
+ZOOM: [b.link/BioinformaticsSymposium2023](b.link/BioinformaticsSymposium2023)
 
 + [info](info.md)
