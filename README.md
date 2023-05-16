@@ -1,7 +1,7 @@
 # bi3209-00-2022-2
 Edunex [-](), BI3209 Introduction to Bioinformatics for Biologist, Class 00 (only as guest lecturer), Academic Year 2022, Semester 2.
 
-Lecturers: Adi Pancoro (01), Husna Nugrahapraja (02), .. (0n).
+Lecturers: [Adi Pancoro](https://sith.itb.ac.id/dr-adi-pancoro/), [Popi Septiani](https://sith.itb.ac.id/popi-septiani-ph-d-2/) (01), [Husna Nugrahapraja](https://sith.itb.ac.id/husna-nugrahapraja-ph-d-2/) (02).
 
 
 ## syllabus
