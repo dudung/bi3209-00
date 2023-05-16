@@ -1,6 +1,8 @@
 # bi3209-00-2022-2
 Edunex [-](), BI3209 Introduction to Bioinformatics for Biologist, Class 00 (only as guest lecturer), Academic Year 2022, Semester 2.
 
+Lecturers: Adi Pancoro (01), Husna Nugrahapraja (02), .. (0n).
+
 
 ## syllabus
 + Introduction to bioinformatics for Biologist is related with information sources, retrieve, analysis of DNA, RNA and amino acid/protein of microorganisms from online genbank, where the analysis data will use a bioinformatics programmes/tools.
