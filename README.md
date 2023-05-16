@@ -15,7 +15,7 @@ Lecturers: [Adi Pancoro](https://sith.itb.ac.id/dr-adi-pancoro/), [Popi Septiani
 
 
 ## lectures
-+ `22-may-2023` [Modeling in biological system](note/17/README.md)
++ `22-may-2023` [Modeling in biological system](17/README.md)
 
 
 ## refs
